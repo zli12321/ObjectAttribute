@@ -1,0 +1,108 @@
+class, attribute, probability
+airplanes, Speed, 0.2
+airplanes, Range, 0.2
+airplanes, Capacity, 0.1
+airplanes, Fuel 0, 0.15
+airplanes, Efficiency, 0.15
+airplanes, Size, 0.1
+airplanes, Avionics, 0.1
+airplanes, Cost, 0.05
+airplanes, Reliability, 0.1
+airplanes, Autopilot, 0.05
+airplanes, Design, 0.05
+automobiles, Engine, 0.4
+automobiles, Transmission, 0.2
+automobiles, Brakes, 0.15
+automobiles, Steering, 0.1
+automobiles, Wheels, 0.05
+automobiles, Suspension, 0.04
+automobiles, Interior, 0.03
+automobiles, Exterior, 0.02
+automobiles, Air 0, 0.01
+automobiles, Conditioning, 0.01
+automobiles, Electrical 0, 0.01
+automobiles, System, 0.01
+birds, feathers, 0.97
+birds, wings, 0.96
+birds, beaks, 0.93
+birds, nests, 0.89
+birds, eggs, 0.87
+birds, prey, 0.85
+birds, claws, 0.83
+birds, talons, 0.79
+birds, migration, 0.77
+cats, independent, 0.85
+cats, affectionate, 0.8
+cats, curious, 0.75
+cats, intelligent, 0.7
+cats, active, 0.65
+cats, loyal, 0.6
+cats, gentle, 0.55
+cats, social, 0.5
+cats, agile, 0.45
+deers, Grace, 0.8
+deers, Speed, 0.7
+deers, Agility, 0.6
+deers, Long 0, 0.5
+deers, Legs, 0.5
+deers, Large 0, 0.4
+deers, Eyes, 0.4
+deers, Antlers, 0.3
+deers, Elegant, 0.2
+deers, Lightweight, 0.1
+deers, Smell, 0.05
+dogs, Loyalty, 0.7
+dogs, Intelligence, 0.6
+dogs, Playfulness, 0.6
+dogs, Trainability, 0.5
+dogs, Adaptability, 0.5
+dogs, Protection, 0.4
+dogs, Affection, 0.4
+dogs, Courage, 0.3
+dogs, Energy, 0.3
+frogs, feet, 0.9
+frogs, Smooth 0, 0.8
+frogs, skin, 0.8
+frogs, Long 0, 0.7
+frogs, tongue, 0.7
+frogs, Eyes top of head 0, 0.6
+frogs, on of head 0, 0.6
+frogs, top head 0, 0.6
+frogs, of 0, 0.6
+frogs, head, 0.6
+frogs, Jumping 0, 0.5
+frogs, ability, 0.5
+frogs, Eardrums, 0.4
+frogs, Poisonous 0, 0.3
+frogs, glands, 0.3
+frogs, Camouflage, 0.2
+frogs, Colorful, 0.1
+frogs, Nocturnal, 0.05
+horses, agility, 0.15
+horses, strength, 0.1
+horses, stamina, 0.09
+horses, intelligence, 0.08
+horses, conformation, 0.07
+horses, athleticism, 0.06
+horses, temperament, 0.05
+horses, beauty, 0.04
+horses, health, 0.04
+ships, Speed, 0.2
+ships, Capacity, 0.1
+ships, Range, 0.15
+ships, Draft, 0.05
+ships, Maneuverability, 0.05
+ships, Displacement, 0.1
+ships, Crew, 0.05
+ships, Automation, 0.1
+ships, Endurance, 0.05
+trucks, Capacity, 0.19
+trucks, Horsepower, 0.18
+trucks, Weight, 0.14
+trucks, Towing, 0.09
+trucks, Brand, 0.07
+trucks, MPG, 0.07
+trucks, Fuel 0, 0.04
+trucks, Type, 0.04
+trucks, Cost, 0.03
+trucks, Color, 0.03
